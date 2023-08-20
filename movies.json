@@ -1,0 +1,27 @@
+[
+  {
+    "name": "El padrino",
+    "year": 1972,
+    "id": 1
+  },
+  {
+    "name": "El mago de Oz",
+    "year": 1939,
+    "id": 2
+  },
+  {
+    "name": "Ciudadano Kane",
+    "year": 1941,
+    "id": 3
+  },
+  {
+    "name": "Cadena perpetua",
+    "year": 1994,
+    "id": 4
+  },
+  {
+    "name": "Toy Story",
+    "year": 1995,
+    "id": 5
+  }
+]
