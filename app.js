@@ -16,7 +16,7 @@ app.listen(3000, () => {
 
 //Metodo GET--------------------------------------------------------------------
 app.get('/', function (request, response){
-    response.send('holi');
+    response.send('Movies API');
 });
 
 app.get('/movies', (req, res) => {
